@@ -41,3 +41,27 @@ can see how much they have left over each month.
 crashing the program.
 
 """
+
+
+"""
+Enter your monthly income: 123456789
+Enter your tax rate (%): 10
+--------------------------------     
+Monthly income: KR123,456,789.00     
+Tax rate: 10%
+Monthly tax: KR12,345,678.90
+Monthly net income: KR111,111,110.10 
+Yearly salary: KR1,481,481,468.00    
+Yearly tax paid: KR148,148,146.80    
+Yearly net income: KR1,333,333,321.20
+--------------------------------     
+
+"""
+
+"""
+improvements:
+align numeric values to the right
+take the longest line and create the --- line with the same length
+consider taking the unit as an input, ask the user or pick from a predefined list or other(ask the user then if not available on the list)
+A short description of the program at the beginning
+"""

@@ -35,3 +35,17 @@ def main() -> None:
 # 6. Run the script
 if __name__ == '__main__':
     main()
+
+"""
+URL: https://www.indently.io
+Status Code: 200
+Content Type: text/html
+Server: Apache
+Response Time: 1.68 seconds
+"""
+
+"""
+improvements:
+A short description of the program at the beginning
+Create a menu that will display a dictionary to run the code on a sample input or on the user's choice.
+"""

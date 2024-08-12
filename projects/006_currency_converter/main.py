@@ -28,7 +28,7 @@ def convert(amount: float, base: str, to: str, rates: dict[str, dict]) -> float:
 # 7. Create a main entry point
 def main() -> None:
     # 8. Load the rates
-    rates: dict[str, dict] = load_rates('rates.json')
+    rates: dict[str, dict] = load_rates('projects\\006_currency_converter\\rates.json')
 
     # 9. Get the result
     result: float = convert(amount=75, base='eur', to='dkk', rates=rates)
@@ -49,4 +49,17 @@ show them a list of all the valid currency options.
 This task will require you to search online for a free API for currency exchange rates, and to make
 a request to it so that you can load that data in this script. 
 
+"""
+
+
+"""
+
+
+Improvements:
+when run by a user like me, encounter errors with the rates.json file because my root file folder is the 10mini_projects.
+FileNotFoundError: [Errno 2] No such file or directory: 'rates.json'
+
+A short description of what the project is doing, what the user should expect, and how to run the project.
+
+After the project run, I got this number which I don't understand what it means whithout looking into the code. 559.6501619481676
 """

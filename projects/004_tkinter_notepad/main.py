@@ -72,3 +72,12 @@ Homework:
 of asking the user to create a new file each time.
 
 """
+
+"""
+improvements:
+A short description of the program at the beginning
+Combine with ... word_frequency
+Extend to multiple file extensions not only txt
+
+errors when canceling the loading.
+"""

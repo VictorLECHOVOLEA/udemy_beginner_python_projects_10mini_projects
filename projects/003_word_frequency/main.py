@@ -39,3 +39,32 @@ Homework:
 so the user doesn't have to copy and paste text.
 
 """
+
+"""
+improvements:
+A short description of the program at the beginning
+Combine with ... what I proposed for summer practice project:)
+
+Enter your text: ababccccdeefabc
+
+Enter your text: asdwdfasfa asdw
+asdwdfasfa: 1
+asdw: 1
+
+
+Enter your text: ana are mere, john are unelte, chris cunoaste python, java, javascript. E un senior python developer.
+are: 2
+python: 2
+ana: 1
+mere: 1
+john: 1
+unelte: 1
+chris: 1
+cunoaste: 1
+java: 1
+javascript: 1
+e: 1
+un: 1
+senior: 1
+developer: 1
+"""

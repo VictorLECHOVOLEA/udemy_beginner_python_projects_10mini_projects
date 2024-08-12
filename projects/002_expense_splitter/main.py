@@ -40,3 +40,29 @@ Homework:
 a proper value.
 
 """
+
+
+"""
+Enter the number of people sharing the expense: 3
+Total expense: €120.00
+Number of people: 3
+Each person should pay: €40.00
+
+
+Enter the total amount of the expense: 1
+Enter the number of people sharing the expense: 1
+Total expense: €1.00
+Number of people: 1
+Each person should pay: €1.00
+
+Enter the total amount of the expense: 3
+Enter the number of people sharing the expense: 2
+Total expense: €3.00
+Number of people: 2
+Each person should pay: €1.50
+"""
+
+"""
+improvements:
+A short description of the program at the beginning
+"""

@@ -49,3 +49,17 @@ Homework:
 - check that the password both contains uppercase characters and symbols
 
 """
+
+"""
+iAt</h$-/De,\6{KH!-s (20 chars)
+7OVHJiAUB0IKXGZg(FGo (20 chars)
+S*v:!wxP^P0fVHASE!vQ (20 chars)
+iC#"6yYgFf>K[*$(4SQ8 (20 chars)
+Nx4U!*:[@\GYJN_.3|m/ (20 chars)
+@%?tmQK9^Fxu9/Y/i@K} (20 chars)
+-!pSRikwvIyBV-riQz*Y (20 chars)
+Eh7ysJ&J`Wa61O3X27;Z (20 chars)
+ER'*$F~?*|m_.;\39|F( (20 chars)
+v-4Z.e,~p)j?G&#)~[QW (20 chars)
+
+"""
